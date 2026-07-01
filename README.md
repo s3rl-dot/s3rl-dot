@@ -1,7 +1,5 @@
 # hi :3
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/597752902852804608)](https://discord.com/users/597752902852804608)
-
+<a href="https://discord.com/users/597752902852804608"><img src="https://lanyard.cnrad.dev/api/597752902852804608" /></a>
 <!--
 **s3rl-dot/s3rl-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
